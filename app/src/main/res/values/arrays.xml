@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categories">
+        <item>----</item>
+        <item>Offres d'emploi</item>
+        <item>Demandes d'emploi</item>
+        <item>Stages</item>
+        <item>Freelance </item>
+
+    </string-array>
+    <string-array name="secteurs">
+        <item></item>
+        <item>Choisissez votre secteur</item>
+        <item>Informatique et Technologies de l'Information</item>
+        <item>Finance et Comptabilité </item>
+        <item>Marketing et Communication </item>
+        <item>Éducation et Enseignement</item>
+    </string-array>
+
+    <string-array name="villes">
+        <item>Choisissez votre ville</item>
+        <item>Casablanca</item>
+        <item>Agadir</item>
+        <item>Rabat</item>
+        <item>Tanger</item>
+
+
+    </string-array>
+</resources>
